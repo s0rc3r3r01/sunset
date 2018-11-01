@@ -1,2 +1,2 @@
 # sunset
-Sunset Android App
+Sunset, A Simple Test Android App
